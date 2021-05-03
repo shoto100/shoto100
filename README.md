@@ -8,12 +8,18 @@
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/satodhru-das-8b6781195/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/satodhru/) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@satodhrunondon) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13875301/satodhru-nondon)
+
 <br />
+
+
 ### Languages and Tools:
+
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -41,7 +47,9 @@
 <img width="550px" alt="Satodhru Das Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shoto2020&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shoto2020&card_width=550)](https://github.com/shoto2020/shoto2020)
-[programming]: https://www.facebook.com/CodeMonkBD-120391363045220
+
+
+[programming]: https://www.facebook.com/CodeMonkBD-120391363045220/
 [website]: https://shoto2020.github.io/my-protfolio/
 [twitter]: https://shoto2020.github.io/my-protfolio/
 [linkedin]: https://shoto2020.github.io/my-protfolio/

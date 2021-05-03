@@ -42,4 +42,4 @@
 [webdevplaylist]: https://shoto2020.github.io/my-protfolio/
 [jsplaylist]: https://shoto2020.github.io/my-protfolio/
 [cssplaylist]: https://shoto2020.github.io/my-protfolio/
-[reactplaylist]: https://shoto2020.github.io/my-protfolio/# shoto2020
+[reactplaylist]: https://shoto2020.github.io/my-protfolio/

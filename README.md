@@ -1,10 +1,9 @@
 ### Hi there, I'm  [Satodhru Das][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [CodeMonk.BD][programming]!
+- 🔭 I’m currently working [AuthLab/WPmanageninja][programming]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn React, React Native, Redux, Node
-- 🥅 2022 Goals: TypeScript, Next.js, PHP
+- 🥅 2022 Goals: VueJs, PHP, Laravel, WordPress Plugin Development
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:

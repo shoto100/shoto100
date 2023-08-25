@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [AuthLab/WPmanageninja][programming]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: VueJs, PHP, Laravel, WP Plugin Development
+- 🥅 2024 Goals: VueJs, PHP, Laravel, WP Plugin Development
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
